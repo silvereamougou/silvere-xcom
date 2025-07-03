@@ -5,7 +5,7 @@ export default async function decorate(block) {
     const container = document.createElement('div');
     container.style.position = 'relative';
     container.style.display = 'inline-block';
-    container.classList.add("dropdown-conatainer")
+    container.classList.add("dropdown-container")
 
     // Create dropdown
     const select = document.createElement('select');

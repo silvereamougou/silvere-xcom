@@ -1,5 +1,7 @@
 .dropdown-container{
-    border: 1px solid red;
+    border: 1px solid red !important;
+    width: 200px;
+    height: 300px;
 }
 
 .dropdown-select-container{
@@ -7,9 +9,10 @@
 }
 
 .select-option{
-    
+
 }
 .select-option:hover{
-    background-color: blue;
-    color: white;
+    background-color: red;
+    color: red !important;
+
 }
