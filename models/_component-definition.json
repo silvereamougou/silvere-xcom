@@ -33,7 +33,11 @@
       "components": [
         {
           "...": "../blocks/*/_*.json#/definitions"
+        },
+        {
+          "...": "../blocks/test/_*.json#/definitions"
         }
+
       ]
     }
   ]

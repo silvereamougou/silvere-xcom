@@ -1,0 +1,15 @@
+.dropdown-container{
+    border: 1px solid red;
+}
+
+.dropdown-select-container{
+    border: none;
+}
+
+.select-option{
+    
+}
+.select-option:hover{
+    background-color: blue;
+    color: white;
+}
